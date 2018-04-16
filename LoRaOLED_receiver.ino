@@ -6,18 +6,15 @@
 
 
 SSD1306 display(0x3c, 4, 15);
+<<<<<<< HEAD
 //add new master
 // add new master 2
+
  //test merge
 //vccv
 // WIFI_LoRa_32 ports
 
-// GPIO5 — SX1278’s SCK
-// GPIO19 — SX1278’s MISO
-// GPIO27 — SX1278’s MOSI
-// GPIO18 — SX1278’s CS
-// GPIO14 — SX1278’s RESET
-// GPIO26 — SX1278’s IRQ(Interrupt Request)
+
 
 #define SS 18
 #define RST 14
